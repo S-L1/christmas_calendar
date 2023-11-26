@@ -24,7 +24,7 @@ Die Inhalte werden dann von der Anwendung in pseudo-zufälliger Reihenfolge ausg
 
 ### System-Anforderungen
 
-Die nachfolgenden Python-Bibliotheken werden für das Skript im Ordner *00_source* benötigt:
+Die nachfolgenden Python-Bibliotheken werden für das Skript im Ordner *source* benötigt:
  - json
  - PyQt6
  - random
@@ -53,7 +53,7 @@ The contents is then selected by the application in pseudo-random order.
 
 ### System Requirements
 
-The following Python libraries are needed to run the script in folder *00_source*:
+The following Python libraries are needed to run the script in folder *source*:
  - json
  - PyQt6
  - random
