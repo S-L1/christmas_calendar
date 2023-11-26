@@ -6,8 +6,8 @@
 
 Dieses Repository enthält einen Adventskalender in drei Varianten:
  - Original Code als [Python-Skript](/source/christmas_calendar.py)
- - Lauffähiges [Programm](/linux) für ubuntu-basierte Linux-Betriebssysteme
- - Lauffähiges [Programm](/windows) für Windows-Betriebssystem
+ - Lauffähiges [Programm](github.com/sandra-liedtke/christmas_calendar/tree/main/linux/Christmas%20Calendar) für ubuntu-basierte Linux-Betriebssysteme
+ - Lauffähiges [Programm](github.com/sandra-liedtke/christmas_calendar/tree/main/windows/Christmas%20Calendar) für Windows-Betriebssystem
 
 Je nach dem, auf welchem Betriebssystem die Anwendung laufen soll, kann der entsprechende Ordner heruntergeladen und die Anwendung
 mit Doppelklick auf die *Christmas Calendar*-Datei gestartet werden.
@@ -35,8 +35,8 @@ Die nachfolgenden Python-Bibliotheken werden für das Skript im Ordner *00_sourc
 
 This repository contains a christmas calendar in three different versions::
  - Original code as [Python script](/source/christmas_calendar.py)
- - Runnable [program](/linux) for ubuntu-based Linux OS
- - Runnable [program](/windows) for Windows OS
+ - Runnable [program](github.com/sandra-liedtke/christmas_calendar/tree/main/linux/Christmas%20Calendar) for ubuntu-based Linux OS
+ - Runnable [program](github.com/sandra-liedtke/christmas_calendar/tree/main/windows/Christmas%20Calendar) for Windows OS
 
 Depending on the operating system the application should run, the respective folder and application may be downloaded and
 started by double clicking the *Christmas Calendar* file.
