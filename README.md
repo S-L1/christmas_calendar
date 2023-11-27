@@ -12,7 +12,7 @@ Dieses Repository enthält einen Adventskalender in drei Varianten:
 Je nach dem, auf welchem Betriebssystem die Anwendung laufen soll, kann der entsprechende Ordner heruntergeladen und die Anwendung
 mit Doppelklick auf die *Christmas Calendar*-Datei gestartet werden.
 
-Diese Arbeit unterliegt den Bestimmungen einer MIT-Lizenz.<br/>
+Diese Arbeit unterliegt den Bestimmungen einer MIT-Lizenz. Alle verwendeten Bilder wurden von mir selbst angefertigt.<br/>
 © 2023 Sandra Liedtke.
 
 ### Inhalte
@@ -41,7 +41,7 @@ This repository contains a christmas calendar in three different versions::
 Depending on the operating system the application should run, the respective folder and application may be downloaded and
 started by double clicking the *Christmas Calendar* file.
 
-This work is licensed under an MIT License.<br/>
+This work is licensed under an MIT License. Any pictures used are my own.<br/>
 © 2023 Sandra Liedtke.
 
 ### Contents
