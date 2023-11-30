@@ -19,7 +19,7 @@ Diese Arbeit unterliegt den Bestimmungen einer MIT-Lizenz. Alle verwendeten Bild
 
 Inhalte des Adventskalenders sind einzelne Zitate. Diese sind in der [contents.json](/source/assets/contents/contents.json) Datei abgelegt.
 Da einmal angezeigte Inhalte aus der contents.json gelöscht werden, sobald sie angezeigt wurden, existiert in dem Ordner auch eine entsprechende [Backup-Datei](/source/assets/contents/contents.json.bak),
-sodass der ursprüngliche Zustand wiederhergestellt werden kann. Es können auch eigene Inhalte in dieser Datei hinzugefügt werden. Die beiden Dateien existieren in allen drei Versionen der Anwendung (für Linux und Windows im Unterordner *_internal/assets/contents*).<br/>
+sodass der ursprüngliche Zustand wiederhergestellt werden kann. Es können auch eigene Inhalte in dieser Datei hinzugefügt werden. Die beiden Dateien existieren in allen drei Versionen der Anwendung (Unterordner *assets/contents*).<br/>
 Die Inhalte werden dann von der Anwendung in pseudo-zufälliger Reihenfolge ausgewählt.
 
 ### System-Anforderungen
@@ -48,7 +48,7 @@ This work is licensed under an MIT License. Any pictures used are my own.<br/>
 
 The christmas calendar contains some quotations. Those are listed in the [contents.json](/source/assets/contents/contents.json) file.
 The content is removed from the contents.json file after it has been displayed once, but there is a [backup file](/source/assets/contents/contents.json.bak)
-from which the original state can be restored. Individual adjustments may be made to the file to add or change the content displayed. Both of the files exist in all three versions of the application (for Linux and Windows in the sub folder *_internal/assets/contents*).<br/>
+from which the original state can be restored. Individual adjustments may be made to the file to add or change the content displayed. Both of the files exist in all three versions of the application (sub folder *assets/contents*).<br/>
 The contents is then selected by the application in pseudo-random order.
 
 ### System Requirements
