@@ -13,7 +13,7 @@ Je nach dem, auf welchem Betriebssystem die Anwendung laufen soll, kann der ents
 mit Doppelklick auf die *Christmas Calendar*-Datei gestartet werden.
 
 Diese Arbeit unterliegt den Bestimmungen einer MIT-Lizenz. Alle verwendeten Bilder wurden von mir selbst angefertigt.<br/>
-© 2023 Sandra Liedtke.
+© 2023 S. Liedtke.
 
 ### Inhalte
 
@@ -42,7 +42,7 @@ Depending on the operating system the application should run, the respective fol
 started by double clicking the *Christmas Calendar* file.
 
 This work is licensed under an MIT License. Any pictures used are my own.<br/>
-© 2023 Sandra Liedtke.
+© 2023 S. Liedtke.
 
 ### Contents
 
